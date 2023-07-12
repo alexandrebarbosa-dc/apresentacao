@@ -11,23 +11,18 @@ As a public servant of the State of Paraíba, working in the Military Police alw
 In the academic area, I am in the process of completing the Bachelor's Degree in Chemistry at the State University of Paraíba. In the military area, I have the Curso de operações e Sobrevivência em Área de Caatinga and Curso de Ações Policiais de Comandos, which I act as an instructor in the courses and internships offered by the unit I am serving.
 In the Data Science area, I am starting my studies very hard, seeking to position myself in the market and gaining experience.
 
-**Background in:** Python, Machine Learning, Space Operations and Mathematical Optimisation.
+**Background in:** Python, CorelDraw, Execel.
 
 **Links:**
-* [Blog](https://sigmoidal.ai)
-* [LinkedIn](https://www.linkedin.com/in/carlosfab)
-* [Medium](https://www.medium.com)
+* [LinkedIn](www.linkedin.com/in/alexandre-barbosa-da-silva-a1b132259)
+* [Intagram](https://instagram.com/alexandrebarbosa.dc?igshid=MzNlNGNkZWQ4Mg==)
+* [Medium](https://medium.com/@alexandrebarbosa.dc)
 
 
 ## Projetos:
 Veja os tutoriais publicados do Sigmoidal:
 
-* **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
-* **Como Implementar Regressão Linear com Python:** https://bit.ly/2Li5pzY
-* **Data Science: Investigando o naufrágio do Titanic:** https://bit.ly/2Ubr5SH
-* **Como Tratar Dados Ausentes com Pandas:** https://bit.ly/31KWSMN
-* **XGBoost: aprenda este algoritmo de Machine Learning em Python:** https://bit.ly/2UbRhws
-* **Como criar uma Wordcloud em Python:** https://bit.ly/2OxsphM
-* **Como lidar com dados desbalanceados:** https://bit.ly/2ZlaNsV
+* **Analisando os dados do Airbnb:** (https://colab.research.google.com/drive/1gyaXwbRGJwfU91PrA3Vgh9WB6Xo0p3ge?usp=sharing)https://colab.research.google.com/drive/1gyaXwbRGJwfU91PrA3Vgh9WB6Xo0p3ge?usp=sharing
+
 
 ---
